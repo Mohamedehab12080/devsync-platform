@@ -1,6 +1,3 @@
-# devsync-platform
-DevSync Platform - A collaborative microservices-based platform for software team formation and project matching. Built with Java Spring Boot, Spring Cloud, and modern web technologies to connect developers, teams, and clients efficiently.
-
 # 🚀 DevSync Platform
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0%2B-brightgreen)
